@@ -1,5 +1,6 @@
-De Drie Theaterwetten
-===================
+# De Drie Theaterwetten
+
+![Licensed under CC-BY-NC_SA](License.png)
 
 'De Drie Theaterwetten' is a video created by Richel Bilderbeek as an example for the course 'Stagecraft', module 'Movie'.
 
