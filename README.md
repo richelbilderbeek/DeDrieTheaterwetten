@@ -6,6 +6,12 @@
 
 A journalist reports that Richel Bilderbeek has won the Nobel price for stagecraft for his Three Laws of Stagecraft. He then interviews two theatre technicians, one specialized in light (at the left) and one specialized in sound (at the richt). After then interview, a gorgeous naked woman walks in.
 
+## The Three Laws of Stagecraft
+
+ * 1. If it does not fit, it is not meant to fit
+ * 2. If you cannot do it alone, ask for help
+ * 3. If it cannot be done safely, it cannot be done
+
 # Conversion from WMV to OGV used
 
 ```
