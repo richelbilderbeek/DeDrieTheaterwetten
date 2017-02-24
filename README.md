@@ -1,17 +1,16 @@
 # De Drie Theaterwetten
 
-
 'De Drie Theaterwetten' is a video created by Richel Bilderbeek as an example for the course 'Stagecraft', module 'Movie'.
 
-Originally the movie was shot in WMV. Goals of this project is
- * to convert it to OGV without losing even more resolution
- * add the license to the movie
+## Plot
 
+A journalist reports that Richel Bilderbeek has won the Nobel price for stagecraft for his Three Laws of Stagecraft. He then interviews two theatre technicians, one specialized in light (at the left) and one specialized in sound (at the richt). After then interview, a gorgeous naked woman walks in.
 
-The conversion from WMV to OGV used:
-<code>
+# Conversion from WMV to OGV used
+
+```
 for x in *.wmv; do avconv -i "$x" -flags +ilme+ildct+alt "`basename "$x" .wmv`.ogv"; done
-</code>
+```
 
 ## License
 
