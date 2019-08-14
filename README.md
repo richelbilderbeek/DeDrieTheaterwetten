@@ -1,5 +1,10 @@
 # De Drie Theaterwetten
 
+Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
+---|---
+`master`|[![Build Status](https://travis-ci.org/richelbilderbeek/DeDrieTheaterwetten.svg?branch=master)](https://travis-ci.org/richelbilderbeek/DeDrieTheaterwetten)
+`develop`|[![Build Status](https://travis-ci.org/richelbilderbeek/DeDrieTheaterwetten.svg?branch=develop)](https://travis-ci.org/richelbilderbeek/DeDrieTheaterwetten)
+
 'De Drie Theaterwetten' is a video created by Richel Bilderbeek as an example for the course 'Stagecraft', module 'Movie'.
 
 ## Videos
