@@ -2,6 +2,11 @@
 
 'De Drie Theaterwetten' is a video created by Richel Bilderbeek as an example for the course 'Stagecraft', module 'Movie'.
 
+## Videos
+
+ * [Download .ogv](http://richelbilderbeek.nl/ScDeDrieTheaterwetten.ogv)
+ * [Download .wmv](http://richelbilderbeek.nl/ScDeDrieTheaterwetten.wmv)
+
 ## Plot
 
 A journalist reports that Richel Bilderbeek has won the Nobel price for stagecraft for his Three Laws of Stagecraft. He then interviews two theatre technicians, one specialized in light (at the left) and one specialized in sound (at the richt). After then interview, a gorgeous naked woman walks in.
