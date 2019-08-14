@@ -7,8 +7,9 @@ Branch|[![Travis CI logo](pics/TravisCI.png)](https://travis-ci.org)
 
 'De Drie Theaterwetten' is a video created by Richel Bilderbeek as an example for the course 'Stagecraft', module 'Movie'.
 
-## Videos
+## Video
 
+ * [View on YouTube](https://youtu.be/MU7rnHJkj3o)
  * [Download .ogv](http://richelbilderbeek.nl/ScDeDrieTheaterwetten.ogv)
  * [Download .wmv](http://richelbilderbeek.nl/ScDeDrieTheaterwetten.wmv)
 
